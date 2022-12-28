@@ -8,4 +8,8 @@ By harnessing the power of Machine Learning we intend to predict the severity of
 
 For Time Series Analysis (ARIMA MODEL used TPU [googlecolab] )
 
-We have dataset of Accident and Vehicle and 
+We have dataset of Accident and Vehicle. We divided the dataset into four pipelines (1)RTC Severity  (2) Vehicle  (3) Time Series Analysis (4) Geospacial Analysis
+We analysed the data for these pipelines separately and then for modelling final solution combined Vehicle data on Accident index and formed model in above file "Amended_Smote_Modelling.ipynb" . Also performed modelling in Accident_Vehicle_Method_1.ipynb
+
+**Predicting-RTC-Severity (Analysis) was performed on labelled and unlabelled data to understand the features in depth and extracing meaningful features
+
