@@ -6,7 +6,7 @@ By harnessing the power of Machine Learning we intend to predict the severity of
 ### PROJECT GOALS 
 1. Classifying RTC severity. 2. Identifying areas with the highest number of RTCs. 3. Identifying what type of vehicles are involved in most RTCs. 4. Monitoring the rate of RTCs over time.
 
-For Time Series Analysis (ARIMA MODEL used TPU [googlecolab] )
+For Time Series Analysis (ARIMA MODEL use TPU [googlecolab] )
 
 We have dataset of Accident and Vehicle. We divided the dataset into four pipelines (1)RTC Severity  (2) Vehicle  (3) Time Series Analysis (4) Geospacial Analysis
 We analysed the data for these pipelines separately and then for modelling final solution combined Vehicle data on Accident index and formed model in above  final file "Amended_Smote_Modelling.ipynb" . 
