@@ -13,8 +13,9 @@ We analysed the data for these pipelines separately and then for modelling final
 
 Also performed modelling in Accident_Vehicle_Method_1.ipynb
 
-**Predicting-RTC-Severity (Analysis) was performed on labelled and unlabelled data 
+Predicting-RTC-Severity (Analysis) was performed on labelled and unlabelled data in above files
 
-in above files ("Predicting-RTC-Severity_Unlabelled_Data.ipynb" , "Predicting_RTC_Severity_Labelled_Data.ipynb" , "Predicting_RTC_Severity_ist(1).ipynb" ) 
+("Predicting-RTC-Severity_Unlabelled_Data.ipynb" , "Predicting_RTC_Severity_Labelled_Data.ipynb" , "Predicting_RTC_Severity_ist(1).ipynb" ) 
+
 for understanding the features in depth and extracing meaningful insights.
 
